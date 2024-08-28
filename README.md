@@ -2,7 +2,7 @@
 
 Meu nome é Yasmin Mirian
 
-Estou estudando na alura 
+Estou estudando na [alura](https:/www.alura.com.br)
 Estou me desinvolvendo na linguagem javaScript
 Utilizo esse espaço para minha organização e compartilhamento do meu dos meus projetos desenvolvidos
 
